@@ -1,0 +1,5 @@
+USE master;
+GO
+ALTER DATABASE [INSTAGRAM]
+Modify Name = INSTA
+GO
